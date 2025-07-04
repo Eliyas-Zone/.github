@@ -1,65 +1,80 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=We+Build+The+Impossible.;Trusted+Full-Stack+Development+Partner.;Blockchain%2C+AI%2C+Metaverse%2C+Cloud%2C+Realtime+Apps.;Welcome+to+Elyas+Zone." alt="Typing animation">
+</div>
+
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGx0ODlnYzMyY2RrNnM4dzQzN3FrM2tydzltYW5kcGRybHBzMW5vdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtaO9BZHcOjmErm/giphy.gif" width="80"/>
-  <br>
+  <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="60" />
   <strong>Elyas Zone</strong>
 </h1>
 
-<p align="center">
-  <em>🚀 Coding New Realities in Web3, Metaverse & AI</em><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=435&lines=Creating+Next-Gen+Experiences;Web3+%7C+Metaverse+%7C+AI+%7C+Realtime+Apps;Future-Driven+Software+Company" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Founded-2019-purple?style=for-the-badge&logo=launchpad" />
-  <img src="https://img.shields.io/badge/Core%20Focus-Metaverse%20%7C%20AI%20%7C%20Blockchain-critical?style=for-the-badge&logo=skynet" />
-  <img src="https://img.shields.io/badge/Tech%20Stack-Fullstack%20Web%203%20%7C%20VR-green?style=for-the-badge&logo=webstorm" />
-</p>
+<p align="center"><em>
+  A multi-disciplinary software powerhouse, turning bold ideas into powerful digital solutions.<br/>
+  We architect, design, and deliver world-class systems with confidence and precision.
+</em></p>
 
 ---
 
-## 💎 About Us
-
-**Elyas Zone** is a future-centric software powerhouse focused on designing immersive digital ecosystems powered by Metaverse, Web3, AI, and scalable cloud-native solutions.
-
-We are engineers of realities — from dynamic metaverse worlds and intelligent bots to decentralized infrastructure and real-time systems.
-
----
-
-## 🎯 What We Do
-
-| 🌐 Service | 💡 Description |
-|-----------|----------------|
-| **Metaverse Development** | 3D interactive worlds, avatars, virtual land, real-time sync |
-| **Smart Contracts** | DApps, DeFi, NFT marketplaces (Polygon, Ethereum, Solana) |
-| **AI/ML Systems** | AI-driven bots, LLM apps, anomaly detection, automation |
-| **Realtime Apps** | Live dashboards, multiplayer logic, WebSocket-based UIs |
-| **Enterprise Backend** | Microservices, REST/GraphQL APIs, secure cloud deployment |
-
----
-
-## 🧪 Technologies We Love
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,solidity,threejs,tailwind,prisma,mongodb,firebase,python,vercel" />
+  <img src="https://img.shields.io/badge/Type-Fullstack%20Agency-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Founded-2019-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialty-Web3%20%7C%20AI%20%7C%20Realtime%20%7C%20Cloud-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Projects-critical?style=for-the-badge" />
 </p>
 
 ---
 
-## ✨ Notable Projects
+## 🧭 Mission
 
-| 🚀 Project | 🌈 Description | ⚙️ Stack |
-|-----------|----------------|---------|
-| **MetaWorld** | A scalable metaverse built with real-time communication & NFT-based land system | `Three.js`, `Socket.IO`, `Solidity`, `React` |
-| **ZonAI** | Custom AI framework for analyzing & predicting user behaviors in virtual environments | `Python`, `TensorFlow`, `WebSockets` |
-| **BanGuard** | Moderation bot for Discord with ban detection, appeal system & IP-based limits | `Discord.js`, `MongoDB`, `Node.js`, `Redis` |
+At **Elyas Zone**, we transform the impossible into deployable solutions. Our mission is to empower creators, businesses, and enterprises by delivering cutting-edge technologies with modern design, scalable architecture, and measurable impact.
 
 ---
 
-## 🖼️ UI / UX Approach
+## 🧠 Services & Expertise
 
-We prioritize modern interfaces powered by:
+| Area | Capabilities |
+|------|--------------|
+| **Frontend** | React, Next.js, Tailwind, Framer Motion, GSAP, Vue |
+| **Backend** | Node.js, NestJS, Express, Fastify, Python, Go |
+| **Databases** | PostgreSQL, MongoDB, Redis, Supabase, Firebase |
+| **AI/LLM** | OpenAI, LangChain, Replicate, HuggingFace, Pinecone |
+| **Blockchain** | Solidity, Ethers.js, Hardhat, ThirdWeb, Moralis |
+| **Realtime** | WebSockets, Socket.IO, Liveblocks, Ably |
+| **Mobile** | React Native, Flutter |
+| **Infra/DevOps** | Docker, NGINX, Vercel, Railway, PM2, CI/CD |
+| **UI Systems** | ShadCN, Radix UI, Chakra UI, MUI, Glassmorphism |
+| **Auth & Security** | OAuth2, Firebase Auth, Clerk, Magic Link, JWT |
 
-- ⚡ **Framer Motion** & GSAP for animations  
-- 🎨 **TailwindCSS** + custom themes  
-- 🧩 Modular UI kits: **ShadCN**, **Radix UI**  
-- 🌌 Glassmorphism, Neobrutalism & Soft UI design
+---
+
+## 🧩 Featured Capabilities
+
+### 🔗 Blockchain & Web3  
+- Smart Contracts (ERC-20/721/1155)  
+- NFT Marketplaces  
+- WalletConnect + Metamask  
+- Tokenomics Dashboard  
+- Chain APIs: Polygon, Ethereum, Zora, Alchemy
+
+### 🧠 AI & Automation  
+- GPT-powered apps with OpenAI / Anthropic  
+- LLM-powered assistants & agents  
+- LangChain workflows + vector DBs (Pinecone)  
+- Image/audio generation (Replicate, ElevenLabs)
+
+### 🌐 Realtime Applications  
+- Multiplayer systems  
+- Live dashboards (Ably, Liveblocks)  
+- Presence indicators, socket sync  
+- WebRTC video & audio integration
+
+### 💼 Enterprise Backend Systems  
+- REST/GraphQL APIs  
+- Scalable microservice architecture  
+- Rate limiting, caching, observability  
+- Secure infrastructure & audit logs
+
+---
+
+## 🖼 UI/UX Philosophy
+
+We don’t just build interfaces — we build experiences. Every pixel matters.
